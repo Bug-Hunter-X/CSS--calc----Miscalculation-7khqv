@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with the CSS `calc()` function: unexpected results due to incorrect operator precedence or missing units. The `bug.css` file contains the problematic code, while `bugSolution.css` shows the corrected version.  Ensure units are explicitly specified for all values in `calc()` to avoid ambiguity and unexpected behavior.
