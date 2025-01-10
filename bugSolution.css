@@ -1,0 +1,1 @@
+Always be explicit with units inside `calc()`. For example, instead of `calc(100% - 10)`, use `calc(100% - 10px)`. This removes ambiguity and prevents unexpected results. Also, remember standard order of operations apply.  Use parentheses `()` to control the order of operations within a `calc()` expression if needed.
